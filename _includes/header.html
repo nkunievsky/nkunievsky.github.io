@@ -94,6 +94,21 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              <!-- Research -->
+              <!-- <li id="show-research" class="nav-item {% if page.url contains 'research' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/research/' | relative_url }}">
+                Research
+                </a>
+              </li> -->
+              
+              <!-- CV -->
+              <li id="show-cv" class="nav-item"> 
+                <a class="nav-link" target="_blank" href="{{ '/assets/pdf/NadavCV_5202023.pdf' | prepend: site.baseurl | prepend: site.url }}">
+                cv
+                </a>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
