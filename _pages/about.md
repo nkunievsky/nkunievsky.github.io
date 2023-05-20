@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a fifth-year PhD student in the Economics Department at the University of Chicago. My main interests lie in Labor Economics and Applied Econometrics, particularly in the intersection of choices and information.
+I'm a PhD student in the Economics Department at the University of Chicago. My main interests lie in Labor Economics and Applied Econometrics, particularly in the intersection of choices and information.
 
 
 
