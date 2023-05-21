@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a> • <a target="_blank" href='https://economics.uchicago.edu/'> Department of Economics </a>
+subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a> <br> <a target="_blank" href='https://economics.uchicago.edu/'> Department of Economics </a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the Economics Department at the University of Chicago. My main interests lie in Labor Economics and Applied Econometrics, particularly in the intersection of choices and information.
+PhD student in the Economics Department at the University of Chicago. My main interests are Labor Economics and Applied Econometrics, focusing on the intersection of choices and information.
 
 
 
