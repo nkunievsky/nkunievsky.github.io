@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /notes/
-title: notebooks and notes
-description: Some notes from various TA sessions and discussions
+title: notes and notebooks 
+description: "Curated Insights: notes I wanted to find online, but couldn't" 
 nav: true
 nav_order: 5
 ---
 
-<!-- #### some notes from various TA sessions and discussions  -->
+- [Linear Regression in a Nonlinear World: The Multivariate Case](/assets/pdfs/yitzhakiMultivarite05272023.pdf) 
+    - [[misspecification bias and its effect on Regression Coefficients](/assets/notebooks/GeneralizedYitzhakiExamples.ipynb)]
+- [Factor Diff-in-Diff/Interactive Fixed Effects](/assets/notebooks/FactorDiff-in-Diff.ipynb) 
+    - [[Jupyter Notebook Version](/assets/notebooks/FactorDiff-in-Diff.ipynb)]
 

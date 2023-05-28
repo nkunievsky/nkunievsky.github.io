@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student in the Economics Department at the University of Chicago. My main interests are Labor Economics and Applied Econometrics, focusing on the intersection of choices and information.
+ Ph.D. student in the Economics Department at the University of Chicago. My primary interests lie in Labor Economics and Applied Econometrics, specifically focusing on the intersection of choice and information. Before joining the University of Chicago, I received a Masters in Economics from Tel-Aviv University and worked as a research assistant at The Hebrew University and The Research Department of the Bank of Israel.
 
 
 
