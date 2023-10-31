@@ -110,7 +110,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 
 .profile img {
@@ -223,8 +223,8 @@ blockquote {
   width: 100%;
 }
 .profile .address {
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 2px;
+  margin-top: 2px;
   font-family: monospace;
 }
 .profile .address p {
