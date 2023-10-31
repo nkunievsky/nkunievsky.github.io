@@ -6,7 +6,7 @@ subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Ch
 
 profile:
   align: right
-  image: me_version4.png
+  image: cropped1.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>University of Chicgo</p>
@@ -17,6 +17,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a PhD candidate at the University of Chicago Department of Economics, and I will be on the 2023-2024 job market.
 
  Ph.D. student in the Economics Department at the University of Chicago. My primary interests lie in Labor Economics and Applied Econometrics, specifically focusing on the intersection of choice and information. Before joining the University of Chicago, I received a Masters in Economics from Tel-Aviv University and worked as a research assistant at The Hebrew University and The Research Department of the Bank of Israel.
 
