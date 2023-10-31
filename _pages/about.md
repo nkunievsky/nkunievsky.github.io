@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a> <br> <a target="_blank" href='https://economics.uchicago.edu/'> Department of Economics </a>
+subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a>, <a target="_blank" href='https://economics.uchicago.edu/'> Department of Economics </a>
 
 profile:
   align: right
-  image: cropped1.jpeg
+  image: cropped2.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>University of Chicgo</p>
-    <p>Chicago, IL</p>
+  # address: >
+  #   <p>University of Chicgo</p>
+  #   <p>Chicago, IL</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +20,6 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD candidate at the University of Chicago Department of Economics, and I will be on the 2023-2024 job market.
 
  Ph.D. student in the Economics Department at the University of Chicago. My primary interests lie in Labor Economics and Applied Econometrics, specifically focusing on the intersection of choice and information. Before joining the University of Chicago, I received a Masters in Economics from Tel-Aviv University and worked as a research assistant at The Hebrew University and The Research Department of the Bank of Israel.
-
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

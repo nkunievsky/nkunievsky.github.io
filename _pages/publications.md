@@ -5,8 +5,6 @@ title: research
 nav: True
 nav_order: 3
 ---
-tbw 
-{% comment %} 
 <!-- _pages/publications.md -->
 ##### Working Papers 
 - Exploring the role of information on explaining the college attendance gap (Draft coming soon!)
@@ -24,5 +22,3 @@ tbw
 - Network-Mediated Knowledge Spillovers in ICT/Information Security. With Neil Gandal and Lee Branstetter](#),
 Review of Network Economics (2021) [Abstract](#) | [PDF](#)
 - The High-Tech Sector, Chapter 17, The Israeli Economy, 1995–2017: Light and Shadow in a Market Economy.  with  Neil Gandal and  Stefania Gandal [Abstract](#) | [PDF](#)
-
- {% endcomment %}
