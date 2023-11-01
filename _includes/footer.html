@@ -23,3 +23,10 @@
       </div>
     </footer>
     {%- endif %}
+
+    {% if site.spotify_username %}
+    <a href="https://open.spotify.com/user/{{ site.spotify_username }}" target="_blank" class="spotify-button">
+        <img src="path/to/spotify-icon.png" alt="Spotify Icon" class="spotify-icon">
+        Connect through Spotify
+    </a>
+    {% endif %}
