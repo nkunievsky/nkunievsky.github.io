@@ -1053,5 +1053,21 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+.spotify-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #1DB954;
+  color: white;
+  border-radius: 25px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+
+.spotify-icon {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
 
 /*# sourceMappingURL=main.css.map */
