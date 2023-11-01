@@ -23,6 +23,7 @@ hi.
 **I’m on the 2023-2024 Job Market.**
 
 I am a PhD candidate at the University of Chicago Department of Economics. 
+
 My primary interests lie in Labor Economics and Applied Econometrics, specifically focusing on the intersection of choice and information. 
 
 Before joining the University of Chicago, I received a Masters in Economics from Tel-Aviv University and worked as a research assistant at The Hebrew University and The Research Department of the Bank of Israel.
