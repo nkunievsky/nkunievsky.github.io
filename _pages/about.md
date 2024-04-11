@@ -6,7 +6,7 @@ subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Ch
 
 profile:
   align: right
-  image: cropped2-min.jpeg
+  image: webImage.jpeg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>University of Chicgo</p>
