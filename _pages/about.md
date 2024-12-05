@@ -18,16 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-hi. 
+hi.
 
-**I’m on the 2023-2024 Job Market.**
+I’m a Postdoctoral Researcher at the Knowledge Lab at the University of Chicago, where I focus on the Science of Science under the supervision of Prof. James Evans. I earned my Ph.D. in Economics from the University of Chicago.  
 
-I am a PhD candidate at the University of Chicago Department of Economics. 
+My research interests include the Science of Science, Applied Econometrics, and Labor Economics.  
 
-My primary interests lie in Labor Economics and Applied Econometrics, specifically focusing on the intersection of choice and information. 
-
-Before joining the University of Chicago, I received a Masters in Economics from Tel-Aviv University and worked as a research assistant at The Hebrew University and The Research Department of the Bank of Israel.
-
+Before joining the University of Chicago, I completed my Master’s in Economics at Tel Aviv University and worked as a research assistant at the Hebrew University and the Research Department of the Bank of Israel.  
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
