@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a>, <a target="_blank" href='https://economics.uchicago.edu/'> Department of Economics </a>
+subtitle: <a target="_blank" href='https://www.uchicago.edu/en'>University of Chicago</a>, <a target="_blank" href='https://knowledgelab.org/'> Knowledge Lab </a>
 
 profile:
   align: right
