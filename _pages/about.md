@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 hi.
 
-I’m a Postdoctoral Researcher at the Knowledge Lab at the University of Chicago, where I focus on the Science of Science under the supervision of Prof. James Evans. I earned my Ph.D. in Economics from the University of Chicago.  
+I’m a Researcher at the Knowledge Lab at the University of Chicago, where I work with Prof. James Evans, and a Senior Data Scientist at Upwork. I earned my Ph.D. in Economics from the University of Chicago.
 
-My research interests include the Science of Science, Applied Econometrics, and Labor Economics.  
+My research interests include AI, large language models, labor economics, causal inference, and the Science of Science.
 
 Before joining the University of Chicago, I completed my Master’s in Economics at Tel Aviv University and worked as a research assistant at the Hebrew University and the Research Department of the Bank of Israel.  
 
