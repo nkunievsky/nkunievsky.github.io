@@ -11,8 +11,6 @@ nav_order: 3
 
 ##### Working Papers
 
-###### 2026
-
 - Measuring Behavior Portability in Large Language Models with Tianjia Dong and James A. Evans [arXiv](https://arxiv.org/abs/2606.22797)
 
   <details>
@@ -48,8 +46,6 @@ nav_order: 3
   <p>Students from different socioeconomic backgrounds exhibit persistent gaps in test scores, gaps that can translate into unequal educational and labor-market outcomes later in life. In many assessments, performance reflects not only what students know, but also how effectively they can communicate that knowledge. This distinction is especially salient in writing assessments, where scores jointly reward the substance of students' ideas and the way those ideas are expressed. As a result, observed score gaps may conflate differences in underlying content with differences in expressive skill. A central question, therefore, is how much of the socioeconomic-status (SES) gap in scores is driven by differences in what students say versus how they say it. We study this question using a large corpus of persuasive essays written by U.S. middle- and high-school students. We introduce a new measurement strategy that separates content from style by leveraging large language models to generate multiple stylistic variants of each essay. These rewrites preserve the underlying arguments while systematically altering surface expression, creating a "generated panel" that introduces controlled within-essay variation in style. This approach allows us to decompose SES gaps in writing scores into contributions from content and style. We find an SES gap of 0.67 points on a 1-6 scale. Approximately 69% of the gap is attributable to differences in essay content quality, Style differences account for 26% of the gap, and differences in evaluation standards across SES groups account for the remaining 5%. These patterns seems stable across demographic subgroups and writing tasks. More broadly, our approach shows how large language models can be used to generate controlled variation in observational data, enabling researchers to isolate and quantify the contributions of otherwise entangled factors.</p>
   </details>
 
-
-###### 2025
 
 - Linear Regression in a Nonlinear World [PDF]({{ '/assets/pdf/YitzhakiNote.pdf' | prepend: site.baseurl | prepend: site.url }}) [arXiv](https://arxiv.org/abs/2512.13645)
 
@@ -87,8 +83,6 @@ nav_order: 3
   </details>
 
 
-###### 2024
-
 - Bridging the Gap: Information, Returns and Choices [PDF]({{ '/assets/pdf/jmpNadav.pdf' | prepend: site.baseurl | prepend: site.url }})
 
   <details>
@@ -110,8 +104,6 @@ nav_order: 3
   <p>In economic analyses of agents making a series of discrete choices, deciding what constitutes an alternative is crucial. This paper introduces a technique for categorizing similar alternatives in contexts where forward-looking agents make a series of decisions. The proposed method groups options that are equivalent from the perspective of the agents, using the renowned word2vec algorithm (Mikolov et al., 2013b, Mikolov et al., 2013a) from the Natural Language Processing literature. The paper discusses the link between the word2vec method and the underlying dynamic optimization problem of the agent.</p>
   </details>
 
-
-###### 2017
 
 - Network-Mediated Knowledge Spillovers: A Cross-Country Comparative Analysis of Information Security Innovations with Lee Branstetter and Neil Gandal [NBER Working Paper 23808](https://www.nber.org/papers/w23808) [CEPR version](https://scholar.google.com/citations?view_op=view_citation&user=len-qnMAAAAJ&citation_for_view=len-qnMAAAAJ:zYLM7Y9cAGgC&hl=en)
 
@@ -135,8 +127,6 @@ nav_order: 3
 
 ##### Publications
 
-###### 2026
-
 - Measuring Intent Comprehension in LLMs with James Evans. Proceedings of the 43rd International Conference on Machine Learning (ICML), PMLR 306:61756–61805 (2026) [Proceedings](https://proceedings.mlr.press/v306/kunievsky26a.html) [arXiv](https://arxiv.org/abs/2506.16584)
 
   <details>
@@ -144,8 +134,6 @@ nav_order: 3
   <p>People judge interactions with large language models (LLMs) as successful when outputs match what they want, not what they type. Yet LLMs are trained to predict the next token solely from text input, not underlying intent. Because written language is an imperfect proxy for intent, and correlations between phrasing and desired outcomes can break down in training data, models that rely too heavily on surface cues may respond inconsistently to semantically equivalent prompts. This makes it essential to evaluate whether LLMs can reliably infer user intent-especially in high-stakes settings where robustness and generalization are critical. We introduce a formal framework for assessing intent comprehension in LLMs: whether a model demonstrates robust understanding of user intent by producing consistent outputs across semantically equivalent prompts while differentiating between prompts with distinct intents. Our evaluation approach is based on a variance decomposition of model responses into three components: variability due to user intent, user articulation, and model uncertainty. Models that understand what users want, and are not overly sensitive to textual cues, should attribute most output variance to intent differences, rather than articulation style. Applying this framework across diverse domains, we find that, within the five LLaMA and Gemma models we evaluate, larger models typically assign a greater share of variance to intent, indicating stronger comprehension of intent, although gains are uneven and often modest with increasing model size. These results motivate moving beyond accuracy-only benchmarks toward semantic diagnostics that directly assess whether models understand what users intend.</p>
   </details>
 
-
-###### 2024
 
 - On the Interpretation of the Intergenerational Elasticity and the Rank-Rank Coefficients for Cross Country Comparison. Economics Letters 236, 111581 (2024) [PDF]({{'/assets/pdf/IGE_interpetation.pdf' | prepend: site.baseurl | prepend: site.url }}) [Proofs]({{'/assets/pdf/IGE_interpetation_appendix.pdf' | prepend: site.baseurl | prepend: site.url }})
 
@@ -155,8 +143,6 @@ nav_order: 3
   </details>
 
 
-###### 2021
-
 - The High-Tech Sector with Neil Gandal and Stefania Roccas Gandal. Chapter 17 in The Israeli Economy, 1995–2017: Light and Shadow in a Market Economy, pp. 527–554, Cambridge University Press (2021) [Link](https://doi.org/10.1017/9781108907620.018)
 
   <details>
@@ -164,8 +150,6 @@ nav_order: 3
   <p>Israel is recognized as one of the most innovative countries in the world. According to the Bloomberg Index of Innovation, Israel stands at number five, while according to the Global Competitive Index, Israel ranks third in the innovation category. The country is now recognized around the world for its excellence in technology and as a center for high-tech entrepreneurship, especially in the area of information and communication technology. In this chapter, we first provide a brief historical perspective. We then provide background, summary, and trend data. We shed light on the quiet but important “high-tech” movement in the Israeli Arab sector. Finally, we examine key problems facing Israeli high tech and briefly discuss promising new frontiers for Israeli high tech.</p>
   </details>
 
-
-###### 2020
 
 - Network-Mediated Knowledge Spillovers in ICT/Information Security. Review of Network Economics 19(2), 85–114 (2020) with Neil Gandal and Lee Branstetter [Link](https://doi.org/10.1515/rne-2020-0034)
 
@@ -176,8 +160,6 @@ nav_order: 3
 
 
 ##### Dissertation
-
-###### 2024
 
 - Essays in Labor Economics. Ph.D. dissertation, University of Chicago (2024) [Repository](https://knowledge.uchicago.edu/records/4zsh3-z4c67)
 
