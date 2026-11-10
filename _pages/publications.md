@@ -11,35 +11,35 @@ nav_order: 3
 
 ##### Working Papers
 
-- Measuring Behavior Portability in Large Language Models with Tianjia Dong and James A. Evans [arXiv](https://arxiv.org/abs/2606.22797)
+- Measuring Behavior Portability in Large Language Models (2026) with Tianjia Dong and James A. Evans [arXiv](https://arxiv.org/abs/2606.22797)
 
   <details>
   <summary>Abstract</summary>
   <p>Large language models are increasingly deployed as autonomous decision makers, yet the behavioral mapping they exhibit can vary substantially across decision environments that are payoff-equivalent by construction-environments that share identical payoff-relevant structure but differ in surface presentation. This sensitivity renders suite-based evaluation fragile and raises a fundamental question of behavioral portability: how well does a behavioral mapping learned in one decision environment informative on another that preserves the same underlying incentive structure? We introduce a formal framework to measure this property. Our protocol fits an interpretable behavioral model on data pooled from a set of source environments and evaluates its out-of-sample predictive performance in a held-out target environment, benchmarking against an oracle trained directly on target data. Portability is quantified via a loss-agnostic measure that delivers worst-case bounds on the performance of the induced prediction-action mapping in the target environment. In controlled experiments spanning seven canonical economic decision problems, we document substantial and systematic portability losses, suggesting that behavioral characterizations of LLMs obtained in one decision environment cannot be assumed to transfer reliably to structurally equivalent alternatives.</p>
   </details>
 
-- U.S. Technological Containment and the Rise of China's Open AI Ecosystem with Wang Jin, Bowen Lou, Tianshu Sun, and James Evans [arXiv](https://arxiv.org/abs/2606.15999)
+- U.S. Technological Containment and the Rise of China's Open AI Ecosystem (2026) with Wang Jin, Bowen Lou, Tianshu Sun, and James Evans [arXiv](https://arxiv.org/abs/2606.15999)
 
   <details>
   <summary>Abstract</summary>
   <p>Over the past decade, U.S. policies have increasingly aimed to preserve artificial intelligence (AI) leadership by promoting domestic free-market policies while controlling global technological chokepoints, particularly advanced semiconductors and computational infrastructure. These measures raised the cost of Chinese AI development, but they also increased the strategic value of open and locally adaptable AI systems. Before raising export controls on high-performance chips, both the U.S. and China promoted policies that included support for open-source AI. During the period following major U.S. export-control shocks, China increasingly embedded open-source AI into national technology strategy through proposed ecosystem building, standards coordination, and resilience-oriented deployment. Moreover, Chinese developers increased engagement with open-source large language model repositories substantially more than U.S. developers did, consistent with a shift toward open infrastructure under geopolitical constraints. Subsequently, Chinese-origin open models diffused widely through open-source communities and scientific research. Even though such models remained largely absent from U.S. patent disclosures, American commercial entities use them in open-access research, suggesting their undermeasured importance within the foundation of U.S. commercial activity. These findings suggest that technological containment can shape not only the direction of AI development, but also the ecosystems through which AI is developed, improved, and diffused.</p>
   </details>
 
-- The Effect of Age at Arrival on the Alignment Between Immigrant and Native-Born Gender Norms: A Distributional Approach [arXiv](https://arxiv.org/abs/2603.23720)
+- The Effect of Age at Arrival on the Alignment Between Immigrant and Native-Born Gender Norms: A Distributional Approach (2026) [arXiv](https://arxiv.org/abs/2603.23720)
 
   <details>
   <summary>Abstract</summary>
   <p>This paper examines how age at migration affects cultural assimilation by studying convergence in gender role attitudes between immigrants and the UK-born population. Although cultural values are central to policy debates about integration and social cohesion, most work on migration timing focuses on economic outcomes, leaving effects on values and beliefs far less explored. We address this gap by combining a sibling design with a distributional framework for measuring attitude convergence. Using the UK Household Longitudinal Study, we compare siblings within the same family who arrived in the UK at different ages, exploiting within-family variation to identify the causal effect of childhood exposure to host-country norms. To measure convergence, we compare the full distributions of ordinal survey responses to questions on gender norms for immigrants and locals. Our distance metric is the Total Variation (TV) distance between response distributions. TV has a clear policy-relevant interpretation: it equals the worst-case difference in mean responses over all bounded scoring rules. We then use our estimates to construct two measures of how migration timing changes this distance. The first asks how large the immigrant-UK-born TV distance would be if every immigrant had arrived at birth, and compares it to the observed distance. The second is a marginal measure that asks how the distance changes under a small uniform shift in arrival ages. Our results show that if all immigrants had arrived at birth, the cultural distance between immigrants and locals would decrease substantially, and that marginal increases in migration age incrementally widen this gap. Overall, the findings highlight the importance of early-life exposure in shaping cultural beliefs and provide a robust, broadly applicable framework for quantifying convergence in survey responses.</p>
   </details>
 
-- PreScience: A Dataset and Benchmark for Scientific Forecasting with Anirudh Ajith, Amanpreet Singh, Jay DeYoung, Austin C. Kozlowski, Oyvind Tafjord, James Evans, Daniel S. Weld, Tom Hope, and Doug Downey [arXiv](https://arxiv.org/abs/2602.20459)
+- PreScience: A Dataset and Benchmark for Scientific Forecasting (2026) with Anirudh Ajith, Amanpreet Singh, Jay DeYoung, Austin C. Kozlowski, Oyvind Tafjord, James Evans, Daniel S. Weld, Tom Hope, and Doug Downey [arXiv](https://arxiv.org/abs/2602.20459)
 
   <details>
   <summary>Abstract</summary>
   <p>Can AI systems trained on the existing scientific record forecast the advances that will follow? We introduce PreScience, a dataset and benchmark for scientific forecasting built around 98K recent AI research papers, together with companion papers covering author publication histories and citation links, yielding 502K papers in total. The resulting paper records include titles, abstracts, disambiguated author identities, influential references, topic labels, citation trajectories, and metadata snapshotted to respect temporal cutoffs. We instantiate seven exemplar tasks: five paper-anchored tasks -- contribution generation, collaborator prediction, prior work selection, citation count prediction, and future combination prediction -- and two aggregate topic trend forecasting variants. We develop baselines ranging from simple heuristics and embedding methods to frontier language models and agentic systems, and introduce LACER, an LLM-based metric for evaluating similarity of generated contribution descriptions that agrees better with human judgments than existing metrics. Finally, we compose task models to generate a 12-month synthetic corpus and find that the resulting papers are systematically less diverse and less novel than human-authored research from the same period. We release the PreScience dataset (https://huggingface.co/datasets/allenai/prescience) and code (https://github.com/allenai/prescience).</p>
   </details>
 
-- Content vs. Form: What Drives the Writing Score Gap Across Socioeconomic Backgrounds? A Generated Panel Approach with Pedro Pertusi [arXiv](https://arxiv.org/abs/2601.03469)
+- Content vs. Form: What Drives the Writing Score Gap Across Socioeconomic Backgrounds? A Generated Panel Approach (2026) with Pedro Pertusi [arXiv](https://arxiv.org/abs/2601.03469)
 
   <details>
   <summary>Abstract</summary>
@@ -47,35 +47,35 @@ nav_order: 3
   </details>
 
 
-- Linear Regression in a Nonlinear World [PDF]({{ '/assets/pdf/YitzhakiNote.pdf' | prepend: site.baseurl | prepend: site.url }}) [arXiv](https://arxiv.org/abs/2512.13645)
+- Linear Regression in a Nonlinear World (2025) [PDF]({{ '/assets/pdf/YitzhakiNote.pdf' | prepend: site.baseurl | prepend: site.url }}) [arXiv](https://arxiv.org/abs/2512.13645)
 
   <details>
   <summary>Abstract</summary>
   <p>The interpretation of coefficients from multivariate linear regression relies on the assumption that the conditional expectation function is linear in the variables. However, in many cases the underlying data generating process is nonlinear. This paper examines how to interpret regression coefficients under nonlinearity. We show that if the relationships between the variable of interest and other covariates are linear, then the coefficient on the variable of interest represents a weighted average of the derivatives of the outcome conditional expectation function with respect to the variable of interest. If these relationships are nonlinear, the regression coefficient becomes biased relative to this weighted average. We show that this bias is interpretable, analogous to the biases from measurement error and omitted variable bias under the standard linear model.</p>
   </details>
 
-- Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs [arXiv](https://arxiv.org/abs/2512.04047)
+- Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs (2025) [arXiv](https://arxiv.org/abs/2512.04047)
 
   <details>
   <summary>Abstract</summary>
   <p>In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a "polarization pull" - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in "semi-lock" regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.</p>
   </details>
 
-- The (Short-Term) Effects of Large Language Models on Unemployment and Earnings with Danqing Chen, Carina Kane, Austin Kozlowski, and James A. Evans [arXiv](https://arxiv.org/abs/2509.15510)
+- The (Short-Term) Effects of Large Language Models on Unemployment and Earnings (2025) with Danqing Chen, Carina Kane, Austin Kozlowski, and James A. Evans [arXiv](https://arxiv.org/abs/2509.15510)
 
   <details>
   <summary>Abstract</summary>
   <p>Large Language Models have spread rapidly since the release of ChatGPT in late 2022, accompanied by claims of major productivity gains but also concerns about job displacement. This paper examines the short-run labor market effects of LLM adoption by comparing earnings and unemployment across occupations with differing levels of exposure to these technologies. Using a Synthetic Difference in Differences approach, we estimate the impact of LLM exposure on earnings and unemployment. Our findings show that workers in highly exposed occupations experienced earnings increases following ChatGPT's introduction, while unemployment rates remained unchanged. These results suggest that initial labor market adjustments to LLMs operate primarily through earnings rather than worker reallocation.</p>
   </details>
 
-- Biased AI improves human performance but reduces perceived helpfulness with Shiyang Lai, Jiwoong Choi, Junsol Kim, Yujin Potter, and James Evans [arXiv](https://arxiv.org/abs/2508.09297) Earlier version presented at the NeurIPS 2025 Workshop on Algorithmic Collective Action.
+- Biased AI improves human performance but reduces perceived helpfulness (2025) with Shiyang Lai, Jiwoong Choi, Junsol Kim, Yujin Potter, and James Evans [arXiv](https://arxiv.org/abs/2508.09297) Earlier version presented at the NeurIPS 2025 Workshop on Algorithmic Collective Action.
 
   <details>
   <summary>Abstract</summary>
   <p>Artificial intelligence (AI) increasingly shapes how people think, engage, and evaluate information. To minimize risk, most current systems are designed to present as ideologically neutral with standardized output. Yet growing evidence suggests that these principles suppress cognitive engagement, impair human decision-making, and erode societal diversity. Here we test the opposite approach by deliberately injecting bias into AI assistants. In three randomized experiments with 5,000 participants, biased AI improved human performance relative to default and neutral AI in tasks ranging from misinformation evaluation and financial investment to graduate education. These gains carried a subjective cost. Participants systematically undervalued AI they believed to be biased and inflated the helpfulness of AI they believed to be neutral, regardless of the systems' actual behavior. Interacting with two AIs whose biases flanked the participant's own perspective preserved the performance gains while limiting the subjective cost and one-sided influence. Our findings reveal the strategic value of intentional bias in AI design. Rather than performing a single fair, reliable, and authoritative voice, AI that speaks from specific viewpoints triggers cognitive agency and elevates human-AI performance in judgment, decision-making, and problem-solving.</p>
   </details>
 
-- Missing vs. Unused Knowledge Hypothesis for Language Model Bottlenecks in Patent Understanding with Siyang Wu, Honglin Bao, and James A. Evans [arXiv](https://arxiv.org/abs/2505.12452)
+- Missing vs. Unused Knowledge Hypothesis for Language Model Bottlenecks in Patent Understanding (2025) with Siyang Wu, Honglin Bao, and James A. Evans [arXiv](https://arxiv.org/abs/2505.12452)
 
   <details>
   <summary>Abstract</summary>
@@ -83,21 +83,21 @@ nav_order: 3
   </details>
 
 
-- Bridging the Gap: Information, Returns and Choices [PDF]({{ '/assets/pdf/jmpNadav.pdf' | prepend: site.baseurl | prepend: site.url }})
+- Bridging the Gap: Information, Returns and Choices (2024) [PDF]({{ '/assets/pdf/jmpNadav.pdf' | prepend: site.baseurl | prepend: site.url }})
 
   <details>
   <summary>Abstract</summary>
   <p>How much of the gap in choices across social groups is driven by differences in returns or the ability to predict these returns? To address this question, we employ a decomposition exercise, based on a structural model, to quantify the roles of information quality and differences in returns in driving this gap, focusing on the college attendance decisions of White and Hispanic high school students in Texas. We find that the average monetary returns from college are almost zero for Hispanics, in contrast to being high for Whites. We then estimate the extent to which differences in returns and information quality contribute to the gap in choices. Our findings indicate that differences in information quality across the two groups help mitigate the choice gap, whereas differences in returns drive the gap. Finally, we use our model to show that achieving parity in choice between the two groups would require policymakers to provide highly accurate additional information, potentially explaining between 24% and 49% of the variance in post-college earnings.</p>
   </details>
 
-- It’s Not Who You Are, It’s What They Know: Wage Gaps and Informational Frictions [PDF]({{ '/assets/pdf/itsNotWhoYouAre.pdf' | prepend: site.baseurl | prepend: site.url }})
+- It’s Not Who You Are, It’s What They Know: Wage Gaps and Informational Frictions (2024) [PDF]({{ '/assets/pdf/itsNotWhoYouAre.pdf' | prepend: site.baseurl | prepend: site.url }})
 
   <details>
   <summary>Abstract</summary>
   <p>Can informational asymmetries among firms account for all observed wage gaps across social groups? We confirm this through a parsimonious common-value auction model in the labor market with unspecified information structures. Firms with identical characteristics encounter workers with unobserved productivity and extend wage offers based on their information about worker productivity and competing offers. Using 2010 American Community Survey data, we show that wage disparities among both Black and White men and women can be explained using a common productivity distribution for all social groups and differences in what firms know, if the mean of this common productivity distribution ranges between $48,000 and $132,800. Our results emphasize the importance of understanding what firms know in shaping wage distributions and explaining wage disparities</p>
   </details>
 
-- Uncovering Latent Types in Sequential Choice Data Using Text Embedding Algorithm [PDF]({{ '/assets/pdf/word2vec_paper.pdf' | prepend: site.baseurl | prepend: site.url }})
+- Uncovering Latent Types in Sequential Choice Data Using Text Embedding Algorithm (2024) [PDF]({{ '/assets/pdf/word2vec_paper.pdf' | prepend: site.baseurl | prepend: site.url }})
 
   <details>
   <summary>Abstract</summary>
